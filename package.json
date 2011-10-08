@@ -1,0 +1,9 @@
+{
+	"name" : "configjs",
+	"version" : "0.1.0",
+	"description" : "Configuration loader",
+	"keywords": ["config"],
+	"author" : "Vadim M. Baryshev <vadimbaryshev@gmail.com>",
+	"main" : "index",
+	"engines" : { "node": ">= 0.2.0" }
+}
