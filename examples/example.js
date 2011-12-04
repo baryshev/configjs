@@ -3,8 +3,10 @@ var
 
 /* Init */
 
-config.root = __dirname + '/config';
-config.env = 'dev';
+config.configure({
+	root : __dirname + '/config',
+	env : 'dev'
+});
 
 /* /Init */
 
@@ -12,6 +14,6 @@ config.env = 'dev';
 /* Usage */
 
 var appConfig = config.load('app');
-console.log(appConfig.version);
+console.log(appConfig.name);
 
 /* /Usage */
