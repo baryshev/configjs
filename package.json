@@ -1,6 +1,6 @@
 {
 	"name" : "configjs",
-	"version" : "0.2.1",
+	"version" : "0.2.2",
 	"description" : "Configuration loader",
 	"keywords": ["config"],
 	"author" : "Vadim M. Baryshev <vadimbaryshev@gmail.com>",
