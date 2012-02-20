@@ -1,9 +1,10 @@
 {
 	"name" : "configjs",
-	"version" : "0.2.2",
+	"version" : "0.2.3",
 	"description" : "Configuration loader",
 	"keywords": ["config"],
 	"author" : "Vadim M. Baryshev <vadimbaryshev@gmail.com>",
+	"repository" : { "type" : "git", "url" : "https://github.com/baryshev/localejs.git" },
 	"main" : "index",
 	"engines" : { "node": ">= 0.4.0" }
 }
